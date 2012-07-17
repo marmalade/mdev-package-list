@@ -10,8 +10,8 @@ Description: |
   iwhttp is the library for socket based work with http and https protocols
 Built-With: 6.1.0
 Filename: iwhttp_1.0.0-1.mdev
-Size: 1860421
-MD5Sum: 0ae58a69cee5030d00c9b69395803cb2
+Size: 972980
+MD5Sum: cc27335bf2129a9f7537b8319c972bd9
 
 
 Package-Format: 2
@@ -58,9 +58,9 @@ MD5Sum: aa84476a524eeabb5ac3c2689b63199c
 Source: iwhttp
 Version: 1.0.0
 Revision: 1
-Filename: marmalade-iwhttp-999474d.zip
-Size: 7933442
-MD5Sum: 22d9cabd84315e3e00df3e8224f6e6c2
+Filename: marmalade-iwhttp-8694032.zip
+Size: 7055910
+MD5Sum: 52479046275047e63defc61911ec3809
 URL: https://nodeload.github.com/marmalade/IwHTTP/zipball/master
 
 
